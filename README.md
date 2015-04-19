@@ -2,7 +2,7 @@
 
 A simple MEAN seed I use with a very organized structure I like. This project would not have been possible without Naila Nur, who contributed gratly to its success and its name.
 
-Naila Nur:
+Naila Nur
 https://github.com/NoodleNut
 
 ## How to use this Project
