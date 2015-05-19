@@ -1,8 +1,13 @@
  var myapp = angular.module('myapp', ['ngRoute']);
 
  // configure our routes
- myapp.config(function() {
-
+ myapp.config(function($routeProvider) {
+     $routeProvider
+     // home page
+     .when('/', {
+         templateUrl: 'pages/index.html',
+         controller: 'mainController'
+     })
      // home page
      .when('/', {
          templateUrl: 'pages/index.html',
