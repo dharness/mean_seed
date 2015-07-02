@@ -1,5 +1,5 @@
 {
-    "name": "Dylaila Mean Seed",
+    "name": "DylailaMeanSeed",
     "main": "server.js",
     "dependencies": {
         "express": "~4.0.0",
