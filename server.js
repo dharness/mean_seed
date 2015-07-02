@@ -10,7 +10,7 @@ var methodOverride = require('method-override')
 var http = require('http')
 var MongoClient = require('mongodb').MongoClient;
 
-// DATBASE CRUMS ======================================
+// DATBASE CRUMBS ======================================
 
 MongoClient.connect('mongodb://usc_admin:admin1@ds031701.mongolab.com:31701/usc_web', function(err, db) {
     if (err) throw err;

@@ -8,10 +8,6 @@
          templateUrl: 'pages/index.html',
          controller: 'mainController'
      })
-     // home page
-     .when('/', {
-         templateUrl: 'pages/index.html',
-         controller: 'mainController'
-     })
+
 
  });
